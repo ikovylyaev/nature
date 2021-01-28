@@ -1,0 +1,35 @@
+---
+title: тальков камень
+map: 56.492849, 60.727435
+description: затопленный тальковый карьер
+layout: post
+date: '2020-03-29 20:00:00 +0500'
+region: свердловская область
+permalink: "/places/talkov/"
+number: "006"
+year: 2020
+youtube: 1LF6cIxPHGA
+photos:
+    - link: 1.jpg
+    - link: 2.jpg
+    - link: 3.jpg
+    - link: 4.jpg
+    - link: 5.jpg
+textes: 
+    - author: наш урал
+      title: "Озеро Тальков Камень: описание, как добраться, фото"
+      link: https://nashural.ru/mesta/sverdlovskaya-oblast/talkov-kamen/
+    - author: ураловед
+      title: Озеро Тальков Камень
+      link: https://uraloved.ru/mesta/sverdlovskaya-obl/ozero-talkov-kamen
+    - author: туристер
+      title: тальков камень
+      link: https://www.tourister.ru/world/europe/russia/city/sysert/placeofinterest/29175
+    - author: бажовские места
+      title: "тальков камень"
+      link: http://www.bm-park.ru/?page=15074
+    - author: билетик аэро
+      title: "Тальков Камень на Урале - легенда о сокровищах одного из самых красивейших озер России"
+      link: https://www.biletik.aero/handbook/blog/talkov-kamen-na-urale-legenda-o-sokrovishchakh-odnogo-iz-samykh-krasiveyshikh-ozer-rossii/
+author: ikovylyaev
+---

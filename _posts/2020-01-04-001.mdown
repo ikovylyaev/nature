@@ -1,0 +1,33 @@
+---
+title: мартьяновская петля
+map: 57.401827, 59.170776
+description: отрезок реки чусовой
+layout: post
+date: '2020-01-04 20:00:00 +0500'
+region: свердловская область
+permalink: "/places/martianovo/"
+number: "001"
+year: 2020
+youtube: YK1w_mu5c_U
+photos:
+    - link: 1.jpg
+    - link: 2.jpg
+    - link: 3.jpg
+    - link: 4.jpg
+    - link: 5.jpg
+    - link: 6.jpg
+textes: 
+    - author: ураловед
+      title: Деревня Мартьяново. Мартьяновская дуга на Чусовой 
+      link: https://uraloved.ru/goroda-i-sela/sverdlovskaya-obl/derevnya-martyanova-i-martyanovskaya-duga
+    - author: наш урал
+      title: "Камни реки Чусовой: Мартьяновская излучина"
+      link: https://nashural.ru/mesta/sverdlovskaya-oblast/chusovaya-martyanovskaya-izluchina/
+    - author: река чусовая
+      title: "Деревня Мартьяново. Мартьяновская дуга "
+      link: http://rekachusovaya.ru/index.php/putevoditel/chusovoe-ust-utka/102-derevnya-martyanovo
+    - author: глобус
+      title: "Идущие в гору. Здесь живут люди: буддийский монастырь на горе Качканар"
+      link: https://serovglobus.ru/istorii/idushchie-v-goru-zdes-zhivut-lyudi-buddiyskiy-monastyr-na-gore-kachkanar/
+author: ikovylyaev
+---

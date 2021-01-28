@@ -1,0 +1,29 @@
+---
+title: озеро иткуль и шайтан-камень
+map: 56.120729, 60.526003
+description: уникальные природные объекты
+layout: post
+date: '2020-01-07 20:00:00 +0500'
+region: челябинская область
+permalink: "/places/itkul/"
+number: "002"
+year: 2020
+youtube: VI7l4mLgvfU
+photos:
+    - link: 1.jpg
+    - link: 2.jpg
+textes: 
+    - author: ураловед
+      title: Озеро Иткуль и скала Шайтан-камень
+      link: https://uraloved.ru/mesta/chelyabinskaya-obl/itkul-i-shajtan-kamen
+    - author: туристер
+      title: озеро иткуль
+      link: https://www.tourister.ru/world/europe/russia/city/verkhniy_ufaley/lakes/30178
+    - author: наш урал
+      title: озеро иткуль и шайтан-камень
+      link: https://nashural.ru/mesta/chelyabinskaya-oblast/itkul/
+    - author: озеро иткуль
+      title: "об озере"
+      link: http://ozeroitkul.ru/articles
+author: ikovylyaev
+---

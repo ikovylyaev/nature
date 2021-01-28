@@ -1,0 +1,28 @@
+---
+title: деревня арамашево
+map: 57.609193, 61.742783
+description: старинная деревня на реке реж
+layout: post
+date: '2020-03-02 20:00:00 +0500'
+region: свердловская область
+permalink: "/places/aramashevo/"
+number: "003"
+year: 2020
+youtube: 0NagNGVHM-o
+photos:
+    - link: 1.jpg
+    - link: 2.jpg
+    - link: 3.jpg
+    - link: 4.jpg
+textes: 
+    - author: арамашево
+      title: история села арамашево
+      link: http://www.aramashevo.ru/istoriya_sela_aramashevo.php
+    - author: наш урал
+      title: арамашево
+      link: https://nashural.ru/mesta/sverdlovskaya-oblast/aramashevo/
+    - author: е1
+      title: "Маршрут выходного дня: поднимаемся на Шайтан-камень и гуляем по «странному» лесу в Арамашево"
+      link: https://www.e1.ru/news/spool/news_id-54269581.html
+author: ikovylyaev
+---

@@ -1,0 +1,109 @@
+---
+layout: default
+---
+<div class="is-navbar-container">
+    <div class="is-brand" style='padding-right: 50px;'>
+		<b class="is-logo" style='position: relative; z-index: 1000000;'>
+			<div class='img-logo'>
+				<img src='{{ site.url }}/img/small.svg' alt='logo'>
+			</div>
+			<b style='display: inline-block'>натуральный поход</b>
+		</b>
+    <!-- nav toggle element -->
+        <a href="#" id='nav-toggle' class="nav-toggle is-push-right-mobile is-shown-mobile icon-kube-menu"></a>
+    </div>
+	<!-- main navigation -->
+    <div id="navbar-desctop" class="is-navbar is-hidden-mobile">
+        <!-- primary navigation -->
+        <nav>
+            <ul>
+                <li><a href="{{ site.url }}/places">места</a></li>
+                <li><a href="{{ site.url }}/map">карта</a></li>
+                <li><a href="{{ site.url }}/about">о нас</a></li>
+            </ul>
+        </nav>
+        <!-- secondary navigation -->
+        <nav class="is-push-right navbar-right-content">
+            <ul>
+                <li><a href="https://vk.com/natureexpedition">vk</a></li>
+                <li><a href="https://vk.com/ikovylyaev">instagram</a></li>
+                <li><a href="https://www.youtube.com/channel/UCf9GOVc0qKKPB-Ee3LfH_uw">youtube</a></li>
+            </ul>
+        </nav>
+    </div>
+    <!-- collapsable navigation -->
+    <div id="navbar-mobile" class="is-navbar">
+        <!-- primary navigation -->
+        <nav>
+            <ul>
+                <li><a href="{{ site.url }}/places">места</a></li>
+                <li><a href="{{ site.url }}/map">карта</a></li>
+                <li><a href="{{ site.url }}/about">о нас</a></li>
+            </ul>
+        </nav>
+        <!-- secondary navigation -->
+        <nav class="is-push-right navbar-right-content">
+            <ul>
+                <li><a href="https://vk.com/natureexpedition">vk</a></li>
+                <li><a href="https://vk.com/ikovylyaev">instagram</a></li>
+                <li><a href="https://www.youtube.com/channel/UCf9GOVc0qKKPB-Ee3LfH_uw">youtube</a></li>
+            </ul>
+        </nav>
+    </div>
+</div>
+<div class='owl-body'>
+	<div class="owl-carousel">
+		{% for post in site.posts limit: 1 offset: 0%}
+		<div class='slider-block'>
+			<div class='background' style="background: url('{{ site.url }}/photos/{{ post.number }}/title.jpg'); background-position: center;background-size: cover; background-position: top center;">	</div>
+			<div class='slider-content'>
+				<h2>{{ post.title }}</h2>
+				<p>{{ post.region }}</p>
+				<small>{{ post.date | date: "%m.%d.%Y" }}</small>
+				<div class='slide-number'>1</div>
+				<a href="{{site.url}}/{{post.url}}">читать</a>
+			</div>
+		</div>	
+		{% endfor %}
+		{% for post in site.posts limit: 1 offset: 1%}
+		<div class='slider-block'>
+			<div class='background' style="background: url('{{ site.url }}/photos/{{ post.number }}/title.jpg'); background-position: center;background-size: cover; background-position: top center;">	</div>
+			<div class='slider-content'>
+				<h2>{{ post.title }}</h2>
+				<p>{{ post.region }}</p>
+				<small>{{ post.date | date: "%m.%d.%Y" }}</small>
+				<div class='slide-number'>2</div>
+				<a href="{{site.url}}/{{post.url}}">читать</a>
+			</div>
+		</div>	
+		{% endfor %}{% for post in site.posts limit: 1 offset: 2%}
+		<div class='slider-block'>
+			<div class='background' style="background: url('{{ site.url }}/photos/{{ post.number }}/title.jpg'); background-position: center;background-size: cover; background-position: top center;">	</div>
+			<div class='slider-content'>
+				<h2>{{ post.title }}</h2>
+				<p>{{ post.region }}</p>
+				<small>{{ post.date | date: "%m.%d.%Y" }}</small>
+				<div class='slide-number'>3</div>
+				<a href="{{site.url}}/{{post.url}}">читать</a>
+			</div>
+		</div>	
+		{% endfor %}
+	</div>
+</div>
+<script>
+	$(document).ready(function(){
+		$(".owl-carousel").owlCarousel({
+			loop:true,
+			items:1,
+			animateOut: 'fadeOut',
+			mouseDrag: false,
+			touchDrag: false,
+			pullDrag: false,
+			freeDrag: false,
+			nav: true
+		});
+	});
+</script>
+<style>
+	body{overflow: hidden;}
+</style>

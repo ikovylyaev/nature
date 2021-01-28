@@ -1,0 +1,11 @@
+title: натуральный поход
+email: ikovylyaev@bk.ru
+description: >- 
+  
+  
+baseurl: ""
+url: "/"
+
+theme: minima
+plugins:
+  - jekyll-feed

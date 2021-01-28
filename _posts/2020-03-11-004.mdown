@@ -1,0 +1,33 @@
+---
+title: чертово городище
+map: 56.941576, 60.347473
+description: интересные скалы в окрестностях екатеринубрга
+layout: post
+date: '2020-03-11 20:00:00 +0500'
+region: свердловская область
+permalink: "/places/chertovo/"
+number: "004"
+year: 2020
+youtube: 0mr372Q7XM8
+photos:
+    - link: 1.jpg
+    - link: 2.jpg
+    - link: 3.jpg
+    - link: 4.jpg
+    - link: 5.jpg
+    - link: 6.jpg
+textes: 
+    - author: ураловед
+      title: Гора чертово городище
+      link: https://uraloved.ru/mesta/sverdlovskaya-obl/chertovo-gorodishe
+    - author: туристер
+      title: Гора чертово городище
+      link: https://www.tourister.ru/world/europe/russia/city/ekaterinburg/mount/36605
+    - author: наш урал
+      title: "Скалы Чертово Городище: описание, как добраться, фото"
+      link: https://nashural.ru/mesta/sverdlovskaya-oblast/chertovo-gorodishhe/
+    - author: tripadvisor
+      title: "чертово городище"
+      link: https://www.tripadvisor.ru/Attraction_Review-g2538805-d6522756-Reviews-Chertovo_Gorodische-Kozelsk_Kaluga_Oblast_Central_Russia.html
+author: ikovylyaev
+---

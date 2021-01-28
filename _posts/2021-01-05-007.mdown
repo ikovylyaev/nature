@@ -1,0 +1,42 @@
+---
+title: гора качканар и шедруб-линг
+map: 58.770409, 59.383133
+description: уникальный буддийский монастырь на горе
+layout: post
+date: '2021-01-05 20:00:00 +0500'
+region: свердловская область
+permalink: "/places/kachkanar/"
+number: "007"
+year: 2020
+youtube: gXm9Si3BUfc
+photos:
+    - link: 1.jpg
+    - link: 2.jpg
+    - link: 3.jpg
+    - link: 4.jpg
+    - link: 5.jpg
+    - link: 6.jpg
+    - link: 7.jpg
+    - link: 8.jpg
+    - link: 9.jpg
+    - link: 10.jpg
+    - link: 11.jpg
+    - link: 12.jpg
+textes: 
+    - author: ураловед
+      title: Гора Качканар и буддийский монастырь Шад Тчуп Линг (Шедруб Линг)
+      link: https://uraloved.ru/mesta/sverdlovskaya-obl/gora-kachkanar
+    - author: туристер
+      title: Гора Качканар
+      link: https://www.tourister.ru/world/europe/russia/city/kachkanar/mount/37403
+    - author: наш урал
+      title: Гора Качканар, Западный карьер и скала Верблюд
+      link: https://nashural.ru/article/travel/gora-kachkanar-karer-skala-verblud/
+    - author: комсомольская правда
+      title: "Лагерь для отшельников под прикрытием «места силы»: как и чем живут буддисты на горе Качканар"
+      link: https://www.ural.kp.ru/daily/26991/4051584/
+    - author: глобус
+      title: "Идущие в гору. Здесь живут люди: буддийский монастырь на горе Качканар"
+      link: https://serovglobus.ru/istorii/idushchie-v-goru-zdes-zhivut-lyudi-buddiyskiy-monastyr-na-gore-kachkanar/
+author: ikovylyaev
+---

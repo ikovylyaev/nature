@@ -1,0 +1,39 @@
+---
+title: дидинский тоннель
+map: 56.817924, 59.714965
+description: старое сооружение
+layout: post
+date: '2020-03-22 20:00:00 +0500'
+region: свердловская область
+permalink: "/places/didino/"
+number: "005"
+year: 2020
+youtube: BnGlmgTHWYo
+photos:
+    - link: 1.jpg
+    - link: 2.jpg
+    - link: 3.jpg
+    - link: 4.jpg
+    - link: 5.jpg
+    - link: 6.jpg
+    - link: 7.jpg
+    - link: 8.jpg
+    - link: 9.jpg
+textes: 
+    - author: ураловед
+      title: дидинский тоннель
+      link: https://uraloved.ru/mesta/sverdlovskaya-obl/didinskiy-tonnel
+    - author: туристер
+      title: дидинский тоннель
+      link: https://www.tourister.ru/world/europe/russia/city/pervouralsk/placeofinterest/36364
+    - author: наш урал
+      title: дидинский тоннель
+      link: https://nashural.ru/mesta/sverdlovskaya-oblast/didinskij-tonnel/
+    - author: е1
+      title: "Маршрут выходного дня: идём на свет в конце Дидинского тоннеля"
+      link: https://www.e1.ru/news/spool/news_id-51355491.html
+    - author: таинственный урал
+      title: "Дидинский тоннель: история самой известной уральской заброшки"
+      link: https://zen.yandex.ru/media/tainyurala/didinskii-tonnel-istoriia-samoi-izvestnoi-uralskoi-zabroshki-5f524efa1689a856f310b6fc
+author: ikovylyaev
+---
