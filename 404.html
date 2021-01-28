@@ -1,25 +1,63 @@
 ---
-permalink: /404.html
-layout: default
+permalink: /404/
+title: 404
 ---
-
-<style type="text/css" media="screen">
-  .container {
-    margin: 10px auto;
-    max-width: 600px;
-    text-align: center;
-  }
-  h1 {
-    margin: 30px 0;
-    font-size: 4em;
-    line-height: 1;
-    letter-spacing: -1px;
-  }
-</style>
-
-<div class="container">
-  <h1>404</h1>
-
-  <p><strong>Page not found :(</strong></p>
-  <p>The requested page could not be found.</p>
+<div class="is-navbar-container">
+    <div class="is-brand" style='padding-right: 50px;'>
+		<b class="is-logo" style='position: relative; z-index: 1000000;'>
+			<div class='img-logo'>
+				<img src='{{ site.url }}/img/small.svg' alt='logo'>
+			</div>
+			<b style='display: inline-block'>натуральный поход</b>
+		</b>
+    <!-- nav toggle element -->
+        <a href="#" id='nav-toggle' class="nav-toggle is-push-right-mobile is-shown-mobile icon-kube-menu"></a>
+    </div>
+	<!-- main navigation -->
+    <div id="navbar-desctop" class="is-navbar is-hidden-mobile">
+        <!-- primary navigation -->
+        <nav>
+            <ul>
+                <li><a href="{{ site.url }}/places">места</a></li>
+                <li><a href="{{ site.url }}/map">карта</a></li>
+                <li><a href="{{ site.url }}/about">о нас</a></li>
+            </ul>
+        </nav>
+        <!-- secondary navigation -->
+        <nav class="is-push-right navbar-right-content">
+            <ul>
+                <li><a href="https://vk.com/natureexpedition">vk</a></li>
+                <li><a href="https://vk.com/ikovylyaev">instagram</a></li>
+                <li><a href="https://www.youtube.com/channel/UCf9GOVc0qKKPB-Ee3LfH_uw">youtube</a></li>
+            </ul>
+        </nav>
+    </div>
+    <!-- collapsable navigation -->
+    <div id="navbar-mobile" class="is-navbar">
+        <!-- primary navigation -->
+        <nav>
+            <ul>
+                <li><a href="{{ site.url }}/places">места</a></li>
+                <li><a href="{{ site.url }}/map">карта</a></li>
+                <li><a href="{{ site.url }}/about">о нас</a></li>
+            </ul>
+        </nav>
+        <!-- secondary navigation -->
+        <nav class="is-push-right navbar-right-content">
+            <ul>
+                <li><a href="https://vk.com/natureexpedition">vk</a></li>
+                <li><a href="https://vk.com/ikovylyaev">instagram</a></li>
+                <li><a href="https://www.youtube.com/channel/UCf9GOVc0qKKPB-Ee3LfH_uw">youtube</a></li>
+            </ul>
+        </nav>
+    </div>
+</div>
+<div class='content'>
+    <div id='map' style="width: 100%; height: calc(100vh - 150px); background: #ff7400; margin-bottom: 50px; position: relative;">
+      <h1 style='background: #ff7400; color: #fff; padding: 20px 50px 20px 80px; position: absolute; left: 0px; bottom: 10vh;'>
+        <div style='position: absolute; background: #ff7400; position: absolute; left: -130px; top: 0px; width: 130px; content: ""; height: 100%'></div>
+        404 - не найдено
+        <a href='{{ site.url }}' class='link-white'>на главную</a>
+      </h1>
+    </div>
 </div>
