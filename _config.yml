@@ -4,7 +4,7 @@ description: >-
   
   
 baseurl: ""
-url: "/"
+url: "http://nature.ikovylyaev.com"
 
 theme: minima
 plugins:
