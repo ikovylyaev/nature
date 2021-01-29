@@ -7,47 +7,44 @@
     <meta name="author" content="IKovylyaev">
     <meta name="yandex-verification" content="743466c05a8e5d2d" />
     
-    <link rel="apple-touch-icon" sizes="57x57" href="{{ site.url }}/img/icon/apple-icon-57x57.png">
-    <link rel="apple-touch-icon" sizes="60x60" href="{{ site.url }}/img/icon/apple-icon-60x60.png">
-    <link rel="apple-touch-icon" sizes="72x72" href="{{ site.url }}/img/icon/apple-icon-72x72.png">
-    <link rel="apple-touch-icon" sizes="76x76" href="{{ site.url }}/img/icon/apple-icon-76x76.png">
-    <link rel="apple-touch-icon" sizes="114x114" href="{{ site.url }}/img/icon/apple-icon-114x114.png">
-    <link rel="apple-touch-icon" sizes="120x120" href="{{ site.url }}/img/icon/apple-icon-120x120.png">
-    <link rel="apple-touch-icon" sizes="144x144" href="{{ site.url }}/img/icon/apple-icon-144x144.png">
-    <link rel="apple-touch-icon" sizes="152x152" href="{{ site.url }}/img/icon/apple-icon-152x152.png">
-    <link rel="apple-touch-icon" sizes="180x180" href="{{ site.url }}/img/icon/apple-icon-180x180.png">
-    <link rel="icon" type="image/png" sizes="192x192"  href="{{ site.url }}/img/icon/android-icon-192x192.png">
-    <link rel="icon" type="image/png" sizes="32x32" href="{{ site.url }}/img/icon/favicon-32x32.png">
-    <link rel="icon" type="image/png" sizes="96x96" href="{{ site.url }}/img/icon/favicon-96x96.png">
-    <link rel="icon" type="image/png" sizes="16x16" href="{{ site.url }}/img/icon/favicon-16x16.png">
-    <meta name="msapplication-TileColor" content="#000000">
-    <link rel="manifest" href="{{ site.url }}/img/icon/manifest.json">
-    <meta name="msapplication-TileImage" content="{{ site.url }}/img/icon/ms-icon-144x144.png">
-    <meta name="theme-color" content="#000000">
+    <link rel="apple-touch-icon" sizes="57x57" href="{{ site.url }}/img/favicon/apple-icon-57x57.png">
+    <link rel="apple-touch-icon" sizes="60x60" href="{{ site.url }}/img/favicon/apple-icon-60x60.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="{{ site.url }}/img/favicon/apple-icon-72x72.png">
+    <link rel="apple-touch-icon" sizes="76x76" href="{{ site.url }}/img/favicon/apple-icon-76x76.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="{{ site.url }}/img/favicon/apple-icon-114x114.png">
+    <link rel="apple-touch-icon" sizes="120x120" href="{{ site.url }}/img/favicon/apple-icon-120x120.png">
+    <link rel="apple-touch-icon" sizes="144x144" href="{{ site.url }}/img/favicon/apple-icon-144x144.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="{{ site.url }}/img/favicon/apple-icon-152x152.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="{{ site.url }}/img/favicon/apple-icon-180x180.png">
+    <link rel="icon" type="image/png" sizes="192x192"  href="{{ site.url }}/img/favicon/android-icon-192x192.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="{{ site.url }}/img/favicon/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="96x96" href="{{ site.url }}/img/favicon/favicon-96x96.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="{{ site.url }}/img/favicon/favicon-16x16.png">
+    <link rel="manifest" href="{{ site.url }}/img/favicon/manifest.json">
+    <meta name="msapplication-TileColor" content="#ff7400">
+    <meta name="msapplication-TileImage" content="{{ site.url }}/img/favicon/ms-icon-144x144.png">
+    <meta name="theme-color" content="#ff7400">
 
     <title>{{ page.title }}</title>
     <!-- Primary Meta Tags -->
-    <meta name="title" content="Иван Ковыляев - веб-программист">
-    <meta name="description" content="Создание веб-сайтов в Санкт-Петербурге. Дизайн адаптивных и полностью кастомизируемых сайтов, использующих простую и понятную систему управления контентом. Видеопроизводство и видеосъемка.">
+    <meta name="title" content="натуральный поход">
+    <meta name="description" content="натуральный поход - команда путешественников по уралу, создающие интересный контент из походов.мы любим урал, изучаем наш край и стремимся донести необходимость заботы и охраны каждого природного и исторического объекта урала до каждого человека, ведь все зависит только от нас самих...">
 
     <!-- Open Graph / Facebook -->
     <meta property="og:type" content="website">
-    <meta property="og:url" content="http://ikovylyaev.com/">
-    <meta property="og:title" content="Иван Ковыляев - веб-программист">
-    <meta property="og:description" content="Создание веб-сайтов в Санкт-Петербурге. Дизайн адаптивных и полностью кастомизируемых сайтов, использующих простую и понятную систему управления контентом. Видеопроизводство и видеосъемка.">
+    <meta property="og:url" content="http://nature.ikovylyaev.com/">
+    <meta property="og:title" content="натуральный поход">
+    <meta property="og:description" content="натуральный поход - команда путешественников по уралу, создающие интересный контент из походов.мы любим урал, изучаем наш край и стремимся донести необходимость заботы и охраны каждого природного и исторического объекта урала до каждого человека, ведь все зависит только от нас самих...">
     <meta property="og:image" content="{{ site.url }}/img/backLogo.png">
 
     <!-- Twitter -->
     <meta property="twitter:card" content="summary_large_image">
-    <meta property="twitter:url" content="http://ikovylyaev.com/">
-    <meta property="twitter:title" content="Иван Ковыляев - веб-программист">
-    <meta property="twitter:description" content="Создание веб-сайтов в Санкт-Петербурге. Дизайн адаптивных и полностью кастомизируемых сайтов, использующих простую и понятную систему управления контентом. Видеопроизводство и видеосъемка.">
+    <meta property="twitter:url" content="http://nature.ikovylyaev.com/">
+    <meta property="twitter:title" content="натуральный поход">
+    <meta property="twitter:description" content="натуральный поход - команда путешественников по уралу, создающие интересный контент из походов.мы любим урал, изучаем наш край и стремимся донести необходимость заботы и охраны каждого природного и исторического объекта урала до каждого человека, ведь все зависит только от нас самих...">
     <meta property="twitter:image" content="{{ site.url }}/img/backLogo.png">
-    
-    <meta name="google-site-verification" content="TgS-ggzsO117EW73IdP6Ma_BE4pfkBCzV-Xaa8dnBlY" />
-    <meta name="yandex-verification" content="743466c05a8e5d2d" />
 
-  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
     <link href="https://use.fontawesome.com/releases/v5.0.6/css/all.css" rel="stylesheet">
     <link href="{{ site.url }}/resources/css/kube.css" rel="stylesheet">
     <link href="{{ site.url }}/resources/css/styles.css" rel="stylesheet">
