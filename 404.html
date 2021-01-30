@@ -1,6 +1,6 @@
 ---
-permalink: /404/
 title: 404
+layout: default
 ---
 <div class="is-navbar-container">
     <div class="is-brand" style='padding-right: 50px;'>
@@ -53,11 +53,11 @@ title: 404
     </div>
 </div>
 <div class='content'>
-    <div id='map' style="width: 100%; height: calc(100vh - 150px); background: #ff7400; margin-bottom: 50px; position: relative;">
+    <div id='map' style="width: 100%; height: calc(100vh - 150px); background: url('{{ site.url }}/img/404.jpg'); background-position: center;background-size: cover; background-position: middle center; margin-bottom: 50px; position: relative;">
       <h1 style='background: #ff7400; color: #fff; padding: 20px 50px 20px 80px; position: absolute; left: 0px; bottom: 10vh;'>
         <div style='position: absolute; background: #ff7400; position: absolute; left: -130px; top: 0px; width: 130px; content: ""; height: 100%'></div>
-        404 - не найдено
-        <a href='{{ site.url }}' class='link-white'>на главную</a>
+        404 - не найдено<br>
+        <a href='{{ site.url }}' class='link-white'><small style='color: #fff;'>на главную</small></a>
       </h1>
     </div>
 </div>

@@ -1,0 +1,22 @@
+{
+  "ru": {
+    "index": "главная",
+    "info": "инфо",
+    "portfolio": "портфолио",
+    "contact": "контакты",
+    "photo": "фотографии",
+    "made": "сделано с <i class='fa fa-heart'></i> в санкт-петербурге",
+    "nav": "навигация",
+    "title": "привет, я иван ковыляев. я видеограф из санкт-петербурга"
+  }, 
+  "en": {
+    "index": "home",
+    "info": "info",
+    "portfolio": "portfolio",
+    "contact": "contact",
+    "photo": "photos",
+    "made": "made with <i class='fa fa-heart'></i> in saint-petersburg",
+    "nav": "navigation",
+    "title": "hello, i'm ivan kovylyaev. i am videographer from saint-petersburg"
+  } 
+}

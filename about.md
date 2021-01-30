@@ -96,7 +96,7 @@ permalink: /about/
         </nav>
     </div>
     <div class='copy'>
-        <img src='{{site.url}}/img/ikovylyaev.svg' style='height: 40px!important'>
-        <p>made by <a href='http://ikovylyaev.com' class='link-white'>ikovylyaev</a></p>
+        <a href='http://ikovylyaev.com'><img src='{{site.url}}/img/ikovylyaev.svg' style='height: 40px!important'></a>
+        <p><a href='http://nature.ikovylyaev.com/policy/' class='link-white'>политика конфиденциальности</a></p>
     </div>
 </div>
